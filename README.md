@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Anthony 👋
 
-<!--
-**AnthonyH771/AnthonyH771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS grad from Cal State Long Beach (May 2026), based in Orange County, CA. I build full-stack web apps, mostly with Next.js, TypeScript, and Supabase.
 
-Here are some ideas to get you started:
+## What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Daniel-L](https://daniellapparel.com)**: a full-stack e-commerce site for my family's wholesale apparel business. Next.js, Supabase, Stripe, and Vercel, with wholesale and retail pricing and an admin portal for approving wholesale accounts.
+- **[Miaomo.ai](https://github.com/mattmarietta/miaomo.ai)**: an AI-powered study platform built for our senior capstone. I built the flashcard system, with AI card generation through Gemini and SM-2 spaced repetition.
+
+## Tech I use
+
+TypeScript · Next.js · React · Tailwind CSS · Supabase · Firebase · Stripe · Python · C# · Flutter
+
+📫 anthonyhuynh771@gmail.com
